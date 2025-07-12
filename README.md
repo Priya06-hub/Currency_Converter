@@ -5,6 +5,8 @@ in that program it take three input
 - second in which currency you want to convert
 - take input of amount
 
-  in program we use api
+program we use api for currency 
   - exchangerate-api
-  
+
+we need to add one module
+-request : for get response of the url
